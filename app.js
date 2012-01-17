@@ -14,7 +14,7 @@ var express = require('express')
 var app = express.createServer();
 
 /**
- * App configuration.
+ * App configuration./// fuck
  */
 
 app.configure(function () {
