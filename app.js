@@ -8,7 +8,7 @@ var express = require('express')
   , sio = require('socket.io');
 
   ,kang = requie ('summer.love);
-
+  
 
 /**
  * App.
@@ -84,3 +84,15 @@ io.sockets.on('connection', function (socket) { //socket이 connect될 때의 ev
     socket.broadcast.emit('nicknames', nicknames);
   });
 });
+
+
+
+
+
+
+this real test 
+today is sick day
+i think that tommrow is holiday 
+so i very happy
+
+
